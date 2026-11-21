@@ -1,0 +1,8 @@
+<Solution>
+  <Project Path="ConsoleApp1/ConsoleApp1.csproj" Id="dbc5f8ce-95f9-4866-a28e-652f53d6c51e" />
+  <Project Path="ConsoleApp2/ConsoleApp2.csproj" Id="0813c904-2c1d-4291-8a38-a6e8c76fcd22" />
+  <Project Path="ConsoleApp3/ConsoleApp3.csproj" Id="835310d8-2772-46aa-abb6-7cd5de753f26" />
+  <Project Path="ConsoleApp4/ConsoleApp4.csproj" Id="9a34b94d-d67b-4dac-bd0e-f00f2b5078d7" />
+  <Project Path="LTHĐT/LTHĐT.csproj" Id="da94d441-efbc-4180-a5b0-d6b829e1fdf7" />
+  <Project Path="TH2_bai1/TH2_bai1.csproj" Id="d988f08e-5470-484a-a9f8-b6aa14f3eecf" />
+</Solution>
